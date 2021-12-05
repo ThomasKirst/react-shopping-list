@@ -1,0 +1,10 @@
+.button {
+  padding: 1rem 2rem;
+  border: none;
+  background: tomato;
+  color: white;
+}
+
+.button--large {
+  font-size: 1.4rem;
+}
